@@ -19,7 +19,7 @@ public class E04_2 {
         //Detect prime numbers
         for (int i = 3; i <= limit; i += 2)   //primes can only be odd after 2
             if (!sieve[i])
-                for (int j = 2 * 1; j <= max; j += i)
+                for (int j = 2 * i; j <= max; j += i)
                     sieve[j] = true;
         //Print prime numbers
         for (int i = 3; i <= max; i += 2)
