@@ -5,9 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4557898e-2263-47c2-ac36-a8be310f26db" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/thinkinginjava/udemy/PrimeNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/thinkinginjava/udemy/S6/Sum3And5Challenge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/thinkinginjava/udemy/S6/UserInputChallenge.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/thinkinginjava/udemy/TraditionalSwitchChallenge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/thinkinginjava/udemy/TraditionalSwitchChallenge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/thinkinginjava/udemy/NewSwitch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/thinkinginjava/udemy/S6/NewSwitch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/thinkinginjava/udemy/PrimeNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/thinkinginjava/udemy/S6/PrimeNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/thinkinginjava/udemy/TraditionalSwitchChallenge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/thinkinginjava/udemy/S6/TraditionalSwitchChallenge.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,39 +46,13 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.PrimeNumbers">
-    <configuration name="E04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.thinkinginjava.controllingExecution.E04" />
-      <module name="thinkingInJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.thinkinginjava.controllingExecution.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="E04_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.thinkinginjava.controllingExecution.E04_2" />
-      <module name="thinkingInJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.thinkinginjava.controllingExecution.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.UserInputChallenge">
     <configuration name="NewSwitch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.thinkinginjava.udemy.NewSwitch" />
+      <option name="MAIN_CLASS_NAME" value="com.thinkinginjava.udemy.S6.NewSwitch" />
       <module name="thinkingInJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.thinkinginjava.udemy.*" />
+          <option name="PATTERN" value="com.thinkinginjava.udemy.S6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,11 +61,24 @@
       </method>
     </configuration>
     <configuration name="PrimeNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.thinkinginjava.udemy.PrimeNumbers" />
+      <option name="MAIN_CLASS_NAME" value="com.thinkinginjava.udemy.S6.PrimeNumbers" />
       <module name="thinkingInJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.thinkinginjava.udemy.*" />
+          <option name="PATTERN" value="com.thinkinginjava.udemy.S6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sum3And5Challenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.thinkinginjava.udemy.S6.Sum3And5Challenge" />
+      <module name="thinkingInJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.thinkinginjava.udemy.S6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,11 +87,24 @@
       </method>
     </configuration>
     <configuration name="TraditionalSwitchChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.thinkinginjava.udemy.TraditionalSwitchChallenge" />
+      <option name="MAIN_CLASS_NAME" value="com.thinkinginjava.udemy.S6.TraditionalSwitchChallenge" />
       <module name="thinkingInJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.thinkinginjava.udemy.*" />
+          <option name="PATTERN" value="com.thinkinginjava.udemy.S6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserInputChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.thinkinginjava.udemy.S6.UserInputChallenge" />
+      <module name="thinkingInJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.thinkinginjava.udemy.S6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UserInputChallenge" />
+        <item itemvalue="Application.Sum3And5Challenge" />
         <item itemvalue="Application.PrimeNumbers" />
         <item itemvalue="Application.TraditionalSwitchChallenge" />
         <item itemvalue="Application.NewSwitch" />
-        <item itemvalue="Application.E04_2" />
-        <item itemvalue="Application.E04" />
       </list>
     </recent_temporary>
   </component>
@@ -139,5 +143,13 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="i % 3" language="JAVA" />
+        <watch expression="i % 5" language="JAVA" />
+        <watch expression="i % 3 == 0" language="JAVA" />
+        <watch expression="i % 5 == 0" language="JAVA" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>

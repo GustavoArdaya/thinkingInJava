@@ -1,4 +1,4 @@
-package com.thinkinginjava.udemy;
+package com.thinkinginjava.udemy.S6;
 
 public class TraditionalSwitchChallenge {
 
