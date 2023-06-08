@@ -5,7 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4557898e-2263-47c2-ac36-a8be310f26db" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/thinkinginjava/udemy/S6/MinAndMaxChallenge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/thinkinginjava/udemy/S7/ClassesChallenge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/thinkinginjava/udemy/S7/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/thinkinginjava/udemy/S7/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/thinkinginjava/udemy/S7/inheritanceChallenge/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/thinkinginjava/udemy/S7/inheritanceChallenge/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/thinkinginjava/udemy/S7/inheritanceChallenge/SalariedEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/thinkinginjava/udemy/S7/inheritanceChallenge/Worker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,48 +47,35 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MinAndMaxChallenge">
+  <component name="RunManager" selected="Application.com.thinkinginjava.udemy.S7.inheritanceChallenge.Main">
+    <configuration name="ClassesChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.thinkinginjava.udemy.S7.ClassesChallenge" />
+      <module name="thinkingInJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.thinkinginjava.udemy.S7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.thinkinginjava.udemy.S7.Main" />
+      <module name="thinkingInJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.thinkinginjava.udemy.S7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MinAndMaxChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.thinkinginjava.udemy.S6.MinAndMaxChallenge" />
-      <module name="thinkingInJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.thinkinginjava.udemy.S6.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PrimeNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.thinkinginjava.udemy.S6.PrimeNumbers" />
-      <module name="thinkingInJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.thinkinginjava.udemy.S6.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Sum3And5Challenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.thinkinginjava.udemy.S6.Sum3And5Challenge" />
-      <module name="thinkingInJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.thinkinginjava.udemy.S6.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TraditionalSwitchChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.thinkinginjava.udemy.S6.TraditionalSwitchChallenge" />
       <module name="thinkingInJava" />
       <extension name="coverage">
         <pattern>
@@ -106,13 +100,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="com.thinkinginjava.udemy.S7.inheritanceChallenge.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.thinkinginjava.udemy.S7.inheritanceChallenge.Main" />
+      <module name="thinkingInJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.thinkinginjava.udemy.S7.inheritanceChallenge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.com.thinkinginjava.udemy.S7.inheritanceChallenge.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.ClassesChallenge" />
         <item itemvalue="Application.MinAndMaxChallenge" />
         <item itemvalue="Application.UserInputChallenge" />
-        <item itemvalue="Application.Sum3And5Challenge" />
-        <item itemvalue="Application.PrimeNumbers" />
-        <item itemvalue="Application.TraditionalSwitchChallenge" />
       </list>
     </recent_temporary>
   </component>
