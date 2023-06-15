@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4557898e-2263-47c2-ac36-a8be310f26db" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/thinkinginjava/udemy/S7/compositionChallenge/CoffeeMaker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/thinkinginjava/udemy/S7/compositionChallenge/DishWasher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/thinkinginjava/udemy/S7/compositionChallenge/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/thinkinginjava/udemy/S7/compositionChallenge/Refrigerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/thinkinginjava/udemy/S7/compositionChallenge/SmartKitchen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/thinkinginjava/udemy/S10/ArrayList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +41,20 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.com.thinkinginjava.udemy.S7.compositionChallenge.Main">
+  <component name="RunManager" selected="Application.ArrayList">
+    <configuration name="ArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.thinkinginjava.udemy.S10.ArrayList" />
+      <module name="thinkingInJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.thinkinginjava.udemy.S10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ClassesChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.thinkinginjava.udemy.S7.ClassesChallenge" />
       <module name="thinkingInJava" />
@@ -65,19 +74,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.thinkinginjava.udemy.S7.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MinAndMaxChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.thinkinginjava.udemy.S6.MinAndMaxChallenge" />
-      <module name="thinkingInJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.thinkinginjava.udemy.S6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayList" />
         <item itemvalue="Application.com.thinkinginjava.udemy.S7.compositionChallenge.Main" />
         <item itemvalue="Application.com.thinkinginjava.udemy.S7.inheritanceChallenge.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.ClassesChallenge" />
-        <item itemvalue="Application.MinAndMaxChallenge" />
       </list>
     </recent_temporary>
   </component>
