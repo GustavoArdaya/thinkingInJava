@@ -59,6 +59,5 @@ public class ArrayListChallenge {
             }
 
         }
-        //list.addAll(tempList);
     }
 }
